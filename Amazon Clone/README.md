@@ -12,6 +12,7 @@ This project is a basic front-end clone of Amazon's homepage, created using pure
 ✅ Clean layout mimicking the Amazon homepage
 
 🛠️ Technologies Used
+<br>
 HTML5 – for creating the structure of the web page
 
 CSS3 – for styling, layout, and responsiveness
