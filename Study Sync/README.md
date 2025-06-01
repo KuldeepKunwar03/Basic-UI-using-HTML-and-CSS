@@ -1,0 +1,2 @@
+Study Sync is a basic front-end UI project designed to represent a modern, responsive study collaboration platform. Built purely with HTML and CSS, this project focuses on creating a clean, minimalistic, and user-friendly interface suitable for educational tools or productivity platforms. It includes a hero section, call-to-action buttons, structured layout, and responsive design for both desktop and mobile views. Ideal for beginners looking to understand the foundations of web design.
+
